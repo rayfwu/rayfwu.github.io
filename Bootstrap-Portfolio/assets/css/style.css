@@ -1,0 +1,172 @@
+body {
+    background-image    : url("../images/circuit.png");
+    background-repeat   : repeat;
+    margin              : 0px;
+}
+
+h1 {
+    font-family : 'Georgia', Times, Times New Roman, serif;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+}
+
+/* .navbar {
+    border: none;
+} */
+
+/* .navbar > a {
+    padding:0;
+    margin:0;
+} */
+
+/*
+Teal color (used for headings and backgrounds): #4aaaa5
+Regular font color (used for paragraphs and all text besides the headings): #777777
+Main header background color: #ffffff
+Main header border color: #cccccc
+Footer background color: #666666
+Main content background color: #ffffff
+Main content border color: #dddddd 
+*/
+/* 
+:root {
+    --headings-backgrounds      : #4aaaa5;
+    --regular-font-color        : #777777;
+    --header-background-color   : #ffffff;
+    --header-border-color       : #cccccc;
+    --footer-background-color   : #666666;
+    --content-background-color  : #ffffff;
+    --content-border-color      : #dddddd;
+}
+
+#nav-container {
+    background-color    : white;
+    border-bottom-style: solid;
+    border-bottom-color: var(--header-border-color);
+    border-bottom-width: 2px;
+}
+
+#navbar {
+    list-style-type     : none;
+    overflow            : auto;
+    width               : 960px;
+    background-color    : white;
+    margin              : auto;
+    padding             : 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-left a {
+    color: white;
+}
+
+li {
+    display     : inline;
+    padding     : 20px;
+    font-family : 'Georgia', Times, Times New Roman, serif;
+}
+
+.nav-left {
+    float               : left;
+    font-size           : 36px;
+    color               : white;
+    background-color    : var(--headings-backgrounds);
+}
+
+.nav-right {
+    color           : var(--regular-font-color);
+    float           : right;
+    margin          : 0;
+    line-height     : 40.5px;
+}
+
+#mypic {
+    width   : 200px;
+    height  : 125px;
+}
+
+body {
+    background-image    : url("../images/circuit.png");
+    background-repeat   : repeat;
+    margin              : 0px;
+}
+
+.content-box {
+    background-color    : white;
+    width               : 960px;
+    margin              : auto;
+}
+
+#divider {
+    background-color: var(--content-border-color);
+    height          : 3px;
+}
+
+.content {
+    width   : 920px;
+    padding : 20px;
+    margin  : auto;
+    color   : var(--regular-font-color);
+    border-bottom-style : solid;
+    border-bottom-color: var(--content-border-color);
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.footer-container {
+    position            : fixed;
+    width               : 100%;
+    height              : 60px;
+    background-color    : var(--footer-background-color);
+    bottom              : 0;
+    border-top-style    : solid;
+    border-top-color    : #4aaaa5;
+    border-top-width    : 5px;
+}
+
+.footer {
+    position    : fixed;
+    color       : white;
+    bottom      : 0;
+    width       : 100%;
+    text-align  : center;
+}
+
+.submit {
+    background-color: var(--headings-backgrounds);
+    color: white;
+}
+
+input {
+    width: 920px;
+}
+
+form {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+textarea {
+    width: 920px;
+    height: 200px;
+    box-sizing: border-box;
+    resize: none;
+    border: 2px solid var(--header-border-color);
+}
+
+.theCats {
+    width: 300px;
+    height: auto;
+    margin-right: 20px;
+} */
