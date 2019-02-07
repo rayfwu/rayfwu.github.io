@@ -29,18 +29,6 @@ function updateSchedule() {
         console.log(error);
     })
 
-    console.log("breakpoint");
-
-    // var tableRow =  "<tr>" +
-    //                 "<td>" + name + "</td>" +
-    //                 "<td>" + destination + "</td>" +
-    //                 "<td>" + frequency + "</td>" +
-    //                 "<td>" + arrival.format("HH:mm") + "</td>" +
-    //                 "<td>" + arrival.diff(moment(), "minutes") + "</td>" +
-    //                 "</tr>";
-
-    // $("#train-table").append(tableRow);
-
     clearForm();
 }
 
